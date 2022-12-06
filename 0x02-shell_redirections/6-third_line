@@ -1,2 +1,2 @@
 #!/bin/bash
-head --lines=3iacta |tail --lines=1
+head -n 3iacta |tail -n +3
