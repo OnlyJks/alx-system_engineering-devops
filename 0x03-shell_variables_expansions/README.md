@@ -1,1 +1,1 @@
-Shell varaibles
+Shell variables
